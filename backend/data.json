@@ -1,0 +1,12 @@
+{
+  "user": {
+    "name": "Harshil",
+    "referralCode": "harshil2025",
+    "totalDonations": 7800
+  },
+  "leaderboard": [
+    { "name": "Harshil", "donations": 7800 },
+    { "name": "Isha", "donations": 6200 },
+    { "name": "Karan", "donations": 5800 }
+  ]
+}
